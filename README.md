@@ -281,10 +281,15 @@ solches Konzept als kommerzieller Erfolg aus anderen Städten bekannt.)
 
 ## Mobilität: Vorrang für Fahrrad
 
-Es wird viel gemeckert, aber es wird in Altona mit Velorouten,
-Fahrradwegausbau und Experimenten wie "Ottensen Macht Platz" schon viel
-für die Verkehrswende getan, was man anerkennen muss. Diese Entwicklung
-sollte forciert werden.
+Es wird in Altona mit Velorouten, und Fahrradwegausbau schon viel für
+die Verkehrswende getan, was man anerkennen muss. Diese Entwicklung ist
+mühsam und dürfte gerne schneller sein, die Anstrengungen sollten
+also forciert werden.
+
+"[Ottensen macht Platz](https://ottensenmachtplatz.de/)" ist ein
+beeindruckendes Experiment, das in meinem persönlichen Umfeld als ein
+Erfolg wahrgenommen wird. Eine Ausweitung der autofreien Zone in
+Ottensen wäre zu begrüßen.
 
 ## Mobilität: Sagt doch mal Dankeschön
 
@@ -295,6 +300,14 @@ spricht](https://twitter.com/Cory821010/status/975991939651850240). Es
 ist nur wichtig, dass dies vom Bezirk / der Stadt kommt, nicht von
 einer Partei oder einem Politiker, damit dies nicht als Wahlwerbung
 missverstanden wird.
+
+## Mobilität: Anwohnerparken & vermehrte Kontrollen
+
+Im Stadtteil Ottensen wird jeder freie Straßenmeter zugeparkt.
+Es wird zu selten kontrolliert und selbst regelmäßige Knöllchen
+sind am Ende günstiger als eine Parkplatzmiete. Das aktuelle
+Wildparken sollte durch vermehrte Kontrollen und Anwohnerparken
+in den am stärksten betroffenen Bereichen beendet werden.
 
 ## Taskforce Klimaschutz für Unternehmen und Behörden
 
