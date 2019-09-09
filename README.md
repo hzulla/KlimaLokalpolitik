@@ -264,7 +264,7 @@ einsetzen.
 
 ## Mobilität: Weniger Verbrenner in Autoflotten
 
-Der Bezirk sollte Anzreize für Unternehmen schaffen, ihre
+Der Bezirk sollte Anreize für Unternehmen schaffen, ihre
 Verbrenner-Autos durch BEVs oder Lastenräder zu ersetzen. Da gibt es
 zwar schon einiges, aber die Angebote dafür liegen wohl ungenutzt
 herum. Die Unternehmen kennen die Anreize nicht oder trauen sich nicht.
