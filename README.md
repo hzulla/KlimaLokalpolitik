@@ -19,12 +19,12 @@ oder nur utopisch oder besserwisserisch sind. Ob sie vielleicht schon
 längst implementiert werden oder ob sie als unsinnig verworfen wurden 
 und warum.
 
-Viele sehen Klimapolitik als eine Top-Down-Entscheidung an. Einen 
+Viele sehen Klimapolitik als eine Top-Down-Entscheidung an. (Einen 
 CO2-Preis wird man z.B. nur auf Bundes- oder Europa-Ebene festlegen 
 können. Es ist unmöglich, einen CO2-Preis lokalpolitisch zu regulieren, 
-ebenso wie man kein Start-Up dafür gründen kann.
+ebenso wie man kein Start-Up dafür gründen kann.)
 
-Es gibt aber viele kleine Bottum-Up-Entscheidungen, mit denen die 
+Es gibt aber viele kleine Bottom-Up-Entscheidungen, mit denen die 
 Lokalpolitik Dinge verändern kann. In der Summe kann so von unten 
 ausreichend Druck entstehen, um darüber die große Politik zu 
 beeinflussen.
