@@ -77,7 +77,7 @@ werden.
 
 Anekdote: Obwohl zB das große Dach der Schule nebenan für eine 
 Solaranlage [sehr gut geeignet 
-wäre](http://www.hamburgenergie.de/ueber-uns/energieerzeugung/solaratlas/) 
+wäre](http://www.hamburgenergie.de/ueber-uns/energieerzeugung/solaratlas/), 
 war es mir nicht möglich herauszufinden, wer deren Bau entscheiden und 
 umsetzen könnte. Alle von mir angesprochenen Schul- und 
 Behördenmitarbeiter waren nicht zuständig oder nannten die zu 
@@ -234,6 +234,20 @@ Stromnetz Hamburg kann so einen Ladepark betreiben, es gibt aber auch
 kommerzielle Betreiber wie den holländische Anbieter Fastned, der 
 solche Flächen entlang der deutschen Autobahnen pachten will (hier 
 deren [Anforderungen](https://fastned.nl/de/standort-vorschlagen)).
+
+## Mobilität: Ladeinfrastruktur in privaten Garagen fördern
+
+Es gibt zwar mit [ELBE](https://www.electrive.net/2019/02/28/hamburg-elbe-projekt-strebt-7-400-private-ladepunkte-an/)
+ein Förderprogramm für den Bau von privater Ladeinfrastruktur,
+doch sind die Ansprechpartner schwer zu erreichen und interessierte
+WEGs erhalten keine schnellen oder konkreten Antworten. Das Programm
+sollte ausgebaut werden, damit interessierte WEGs schneller ihre Garagen
+mit gemanageten Wallboxen ausstatten können.
+
+Wie der Politik bekannt, werden Mieter und einzelne Eigentümer noch immer
+ausgebremst, wenn Vermieter oder WEG dem Bau von Wallboxen nicht
+zustimmen. Hier sollte der Bezirk sich für das geplante Recht auf Wallbox
+stark machen.
 
 ## Mobilität: Weniger Diesel-Loks im Fernverkehr
 
