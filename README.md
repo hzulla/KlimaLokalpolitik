@@ -305,9 +305,16 @@ missverstanden wird.
 
 Im Stadtteil Ottensen wird jeder freie Straßenmeter zugeparkt.
 Es wird zu selten kontrolliert und selbst regelmäßige Knöllchen
-sind am Ende günstiger als eine Parkplatzmiete. Das aktuelle
-Wildparken sollte durch vermehrte Kontrollen und Anwohnerparken
-in den am stärksten betroffenen Bereichen beendet werden.
+sind am Ende günstiger als eine Parkplatzmiete.
+
+Das aktuelle Wildparken sollte durch vermehrte Kontrollen und
+Anwohnerparken in den am stärksten betroffenen Bereichen beendet
+werden.
+
+In Amsterdam und anderen Städten werden Falschparker automatisch
+von [Scan-Autos](https://www.sueddeutsche.de/politik/videoueberwachung-bitte-laecheln-1.3886861)
+erkannt, Wildparken wurde so praktisch vollständig beendet. Warum
+nicht hier?
 
 ## Taskforce Klimaschutz für Unternehmen und Behörden
 
