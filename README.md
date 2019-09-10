@@ -312,7 +312,7 @@ Anwohnerparken in den am stärksten betroffenen Bereichen beendet
 werden.
 
 In Amsterdam und anderen Städten werden Falschparker automatisch
-von [Scan-Autos](https://www.sueddeutsche.de/politik/videoueberwachung-bitte-laecheln-1.3886861)
+von [Scan-Autos](https://deutscheleitkultur.blog/2017/05/31/amsterdam-smarte-stadt-mit-parkstrafendatenbank/)
 erkannt, Wildparken wurde so praktisch vollständig beendet. Warum
 nicht hier?
 
