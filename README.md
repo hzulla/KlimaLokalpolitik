@@ -42,14 +42,14 @@ schneller unnötig werden.
 Die Lokalpolitik sollte nach dem [Vorbild 
 anderer](https://de.wikipedia.org/wiki/Liste_deutscher_Orte_und_Gemeinden,_die_den_Klimanotstand_ausgerufen_haben) 
 einen 
-[Klimanotstand](https://de.wikipedia.org/wiki/Klimanotstand#Deutschland) 
+[Klimanotstand](https://de.wikipedia.org/wiki/Klimanotstand) 
 ausrufen und damit alle Entscheidungen für den Bezirk unter 
 einen Klimavorbehalt stellen.
 
 ## Divestment
 
 Hamburg hat sich m.W. bislang noch nicht für ein 
-[Divestment](https://de.wikipedia.org/wiki/Divestment_(fossile_Energien)#Bundesl%C3%A4nder) 
+[Divestment](https://de.wikipedia.org/wiki/Divestment_(fossile_Energien)) 
 entschieden. Warum? Der Bezirk soll entsprechend Einfluss auf den Senat 
 nehmen und bezirkseigene Investments überprüfen.
 
@@ -295,6 +295,12 @@ Lastenfahrrädern, platziert bei den Gewerbehöfen / -gebieten des
 Bezirks, danach die Gewerbetreibenden in der Nachbarschaft über deren
 Existenz informieren. (Sinnvolle Idee oder nicht? Mir ist bisher kein
 solches Konzept als kommerzieller Erfolg aus anderen Städten bekannt.)
+
+## Mobilität: Lastenfahrradförderung
+
+In Berlin läuft eine erfolgreiche
+[Lastenfahrradförderung](https://www.electrive.net/2019/09/19/lastenradfoerderung-in-berlin-wird-neu-aufgestellt/)
+- lässt sich dies auch in Hamburg umsetzen?
 
 ## Mobilität: Vorrang für Fahrrad
 
