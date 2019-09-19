@@ -298,9 +298,10 @@ solches Konzept als kommerzieller Erfolg aus anderen Städten bekannt.)
 
 ## Mobilität: Lastenfahrradförderung
 
-In Berlin läuft eine erfolgreiche
-[Lastenfahrradförderung](https://www.electrive.net/2019/09/19/lastenradfoerderung-in-berlin-wird-neu-aufgestellt/)
-- lässt sich dies auch in Hamburg umsetzen?
+In Berlin gibt es eine erfolgreiche
+[Lastenfahrradförderung](https://www.electrive.net/2019/09/19/lastenradfoerderung-in-berlin-wird-neu-aufgestellt/),
+die "auf eine enorme Resonanz" stößt. Lässt sich ein solches
+Förderprogramm auch in Hamburg umsetzen?
 
 ## Mobilität: Vorrang für Fahrrad
 
