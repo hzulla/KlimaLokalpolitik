@@ -154,6 +154,23 @@ Der Bezirk sollte den Senat dazu auffordern, ein konkretes Enddatum für
 Neuzulassungen von Verbrennerfahrzeugen zu entscheiden. Oder soweit 
 möglich selbst ein solches Datum für den Bezirk festlegen.
 
+## Emissionen: Blaue Plakette / Umweltzone
+
+Die Sperrung entlang der Stresemannstraße / Max-Brauer-Allee ist eine
+halbherzige Lösung. Als vom Diesel-Fahrverbot betroffener Stadtteil
+sollte sich Altona dafür einsetzen, eine übergreifende
+Innenstadt-Umweltzone mit Pflicht zur blauen Plakette durchzusetzen.
+
+## Emissionen: Ende für Diesel-Subvention
+
+Die immer wieder neuen Defeat-Device Skandale beweisen eindrucksvoll,
+dass die Autoindustrie den von ihr versprochenen Umweltvorteil von
+Dieselmotoren in der Praxis nicht mehr erfüllen kann. Damit ist auch
+der Grund für eine staatliche Bevorzugung von Dieselmotoren hinfällig
+geworden. Als vom Diesel-Fahrverbot betroffener Stadtteil sollte sich
+Altona dafür einsetzen, dass der steuerliche Subventionsvorteil für
+Dieseltreibstoff abgeschafft wird.
+
 ## Emissionen: Weniger dreckige Hafenfähren und -schlepper
 
 Es wurden kürzlich neue dieselelektrische HVV-Fähren eingeführt. Diese
